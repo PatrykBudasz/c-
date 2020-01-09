@@ -1,0 +1,9 @@
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.exe.config
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.exe
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.pdb
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.kolko.resources
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.exe
+C:\Users\Patryk\Desktop\Kółko i krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.pdb
